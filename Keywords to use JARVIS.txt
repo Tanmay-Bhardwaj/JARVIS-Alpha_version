@@ -1,0 +1,19 @@
+#Keywords for JARVIS
+
+1.play- to play any song
+
+2. time- to know the time
+
+3. Who the heck- To know about a person
+
+4. jock- to hear a jock
+
+5. meeting- Open Google meet
+
+6. favourite songs- To hear my favourite song on YTmusic
+
+7. news- open BBC news channel
+
+8. whatsaap- open whatsaap
+
+9. inbox- open G-mail
